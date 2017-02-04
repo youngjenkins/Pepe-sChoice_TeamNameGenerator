@@ -1,0 +1,203 @@
+New York
+Los Angeles 
+Chicago  
+Houston 
+Philadelphia 
+Phoenix  
+San Antonio 
+San Diego 
+Dallas 
+San Jose 
+Austin 
+Jacksonville 
+San Francisco 
+Columbus 
+Fort Worth 
+Charlotte  
+Detroit  
+El Paso 
+Seattle  
+Denver  
+District of Columbia
+Memphis  
+Boston  
+Nashville    
+Baltimore  
+Portland  
+Las Vegas  
+Louisville
+Milwaukee  
+Albuquerque 
+Tucson  
+Fresno 
+Sacramento 
+Long Beach  
+Atlanta
+Omaha   
+Raleigh  
+Miami 
+Oakland 
+Minneapolis  
+Tulsa  
+Cleveland 
+Wichita  
+New Orleans  
+Tampa  
+Honolulu
+Anaheim 
+Corpus Christi 
+St. Louis  
+Pittsburgh 
+Anchorage
+Cincinnati 
+St. Paul   
+Toledo 
+Newark   
+Orlando 
+Jersey City  
+Buffalo 
+Norfolk  
+Reno  
+Chesapeake   
+Baton Rouge  
+San Bernardino 
+Birmingham  
+Spokane  
+Rochester 
+Modesto 
+Des Moines  
+Tacoma  
+Columbus  
+Huntington Beach 
+Yonkers 
+Montgomery    
+Akron 
+Grand Rapids  
+Salt Lake City  
+Tallahassee  
+Knoxville  
+Providence
+Fort Lauderdale 
+Chattanooga  
+Tempe  
+Vancouver  
+Ontario 
+Sioux Falls  
+Springfield  
+Salem   
+Pasadena 
+Hollywood 
+Savannah  
+Syracuse 
+Dayton 
+Bellevue  
+Columbia   
+Charleston  
+Hartford       
+Allentown 
+Berkeley 
+Ann Arbor  
+Columbia  
+Fargo  
+Peoria  
+Wilmington  
+Cambridge  
+Daly City 
+Burbank 
+Boulder  
+Green Bay   
+West Palm Beach 
+Erie 
+Roanoke    
+Flint  
+Compton   
+Albany 
+Portsmouth  
+Roswell  
+Santa Monica 
+Miami Beach 
+Boca Raton 
+Reading 
+Duluth  
+Concord  
+Danbury  
+Bellingham  
+Bloomington  
+Fayetteville
+Camden  
+Folsom 
+Scranton 
+Bethlehem 
+Plymouth  
+Decatur  
+Rapid City  
+Santa Fe
+Muncie  
+Jacksonville  
+Bismarck  
+Flagstaff  
+Pittsburg 
+Palo Alto 
+North Little Rock
+Schenectady 
+Daytona Beach 
+Vineland    
+Cupertino 
+Redmond  
+Manhattan  
+Margate 
+Decatur  
+Hoboken  
+Burlington  
+Charleston  
+Niagara Falls
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
