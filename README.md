@@ -1,6 +1,6 @@
 # PepesChoice_TeamNameGenerator
 
-Developed and executed on Macbook/Bash shell. 
+Developed and executed on Macbook/Bash shell, May 2016. 
 
 The text files need to be in the same folder as the .py file; 
 editing the path within the .py is also an option.
