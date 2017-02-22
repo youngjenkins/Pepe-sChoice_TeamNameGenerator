@@ -2,13 +2,19 @@
 
 Developed and executed on Macbook/Bash shell, May 2016. 
 
+Description: 
+This is a small generator that will create a sportball team name from a city + a meme. 
+
+Notes for Running:
 The text files need to be in the same folder as the .py file; 
-editing the path within the .py is also an option.
+else editing the path in the calls to open the files within the .py is also an option.
+
+February 2017: removed external files, replaced with two sets within the .py file.
 
 Taking it further: 
 - Developing a simple GUI
 - Developing a simple iOS app
 - Integrating w/ Raspberry PI server
-- Integrating w/ Arduino & push-button controls; LCD display?
+- Integrating w/ Arduino: push-button controls & LCD display
 
 Enjoy ^_^
