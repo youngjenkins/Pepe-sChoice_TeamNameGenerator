@@ -1,4 +1,4 @@
-Look, I named it before I found out that Pepe had become a byword for shitty racists. 
+
 
 Developed and executed on Macbook/Bash shell, May 2016. 
 
